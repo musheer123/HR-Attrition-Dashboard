@@ -10,38 +10,37 @@ Downloaded the HR dataset from Kaggle, which includes data on employees' job rol
 Data Loading:
 
 Loaded the dataset into Power BI for further processing and analysis.
-Data Cleaning:
-
-Removed duplicate records.
+## Data Cleaning:
+### Removed duplicate records.
 Handled missing values through imputation and removal, depending on the severity and distribution of missing data.
 Performed data normalization to ensure consistency in values.
 Data Transformation:
 
-Created new calculated columns:
+### Created new calculated columns:
 Age Group: Segmented employees into various age groups (e.g., 18-25, 25-35, 35-45, etc.) to analyze attrition across different demographics.
 DAX Measures:
 
-Created custom DAX measures for essential metrics:
+### Created custom DAX measures for essential metrics:
 Attrition Rate: (Number of employees left / Total number of employees) * 100
 Average Salary: Calculated the average salary for employees in each job role and across departments.
 Visualization:
 
-Developed interactive dashboards with the following visualizations:
+### Developed interactive dashboards with the following visualizations:
 Pie Charts: To show attrition distribution across different categories like job role, gender, and salary.
 Bar Graphs: To compare attrition rates by job role, department, and experience.
 Area Charts: To track trends over time for employee retention and attrition.
 
 ## Top Insights:
-Job Role:
+### Job Role:
 The Sales and Marketing teams have the highest attrition rate compared to other departments, indicating a possible issue with job satisfaction or career growth opportunities in these areas.
 
-Experience:
+### Experience:
 Employees with 2 to 5 years of experience exhibit the highest likelihood of leaving the company, suggesting that this group might feel stagnated or seek new challenges elsewhere.
 
-Age Group:
+### Age Group:
 The 25-35 age group has the highest turnover rate, which may indicate a shift in priorities or career goals at this stage of life. This group might be looking for better work-life balance or more senior roles.
-Salary:
 
+### Salary:
 Employees earning less than $50,000 are more likely to leave the company, which suggests a correlation between lower salaries and higher turnover, potentially due to dissatisfaction with compensation.
 
 ## Conclusion:
