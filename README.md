@@ -1,9 +1,9 @@
 # HR-Attrition-Dashboard
 
-#Project Overview
+## Project Overview
 This project analyzes employee attrition trends using the HR dataset from Kaggle to identify key insights that can help the organization improve employee retention. Power BI was used for data visualization and analysis.
 
-#Steps of the Process:
+## Steps of the Process:
 Data Collection:
 
 Downloaded the HR dataset from Kaggle, which includes data on employees' job roles, experience, salary, age, performance, and other factors affecting attrition.
@@ -31,7 +31,7 @@ Pie Charts: To show attrition distribution across different categories like job 
 Bar Graphs: To compare attrition rates by job role, department, and experience.
 Area Charts: To track trends over time for employee retention and attrition.
 
-##Top Insights:
+## Top Insights:
 Job Role:
 The Sales and Marketing teams have the highest attrition rate compared to other departments, indicating a possible issue with job satisfaction or career growth opportunities in these areas.
 
@@ -44,5 +44,5 @@ Salary:
 
 Employees earning less than $50,000 are more likely to leave the company, which suggests a correlation between lower salaries and higher turnover, potentially due to dissatisfaction with compensation.
 
-##Conclusion:
+## Conclusion:
 This analysis provides valuable insights into employee attrition trends and highlights key factors that could be addressed to improve retention. The interactive dashboard in Power BI allows HR teams to monitor these metrics regularly and implement data-driven strategies for retaining employees.
