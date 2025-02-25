@@ -1,9 +1,9 @@
 # HR-Attrition-Dashboard
 
-##Project Overview
+#Project Overview
 This project analyzes employee attrition trends using the HR dataset from Kaggle to identify key insights that can help the organization improve employee retention. Power BI was used for data visualization and analysis.
 
-##Steps of the Process:
+#Steps of the Process:
 Data Collection:
 
 Downloaded the HR dataset from Kaggle, which includes data on employees' job roles, experience, salary, age, performance, and other factors affecting attrition.
